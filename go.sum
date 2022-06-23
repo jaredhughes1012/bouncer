@@ -1,0 +1,6 @@
+github.com/go-jwt/jwt v1.0.7 h1:K/nDvUz5T5yJmn3iesAcKMXCkaOF137K9hPf6WzdpKc=
+github.com/go-jwt/jwt v1.0.7/go.mod h1:tZOz8IY4aWxsg1zyTRB3el8ynaBrTmqBiDRnmBOqSEs=
+github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
+github.com/golang-jwt/jwt v3.2.2+incompatible/go.mod h1:8pz2t5EyA70fFQQSrl6XZXzqecmYZeUEB8OUGHkxJ+I=
+gopkg.in/jwt.v1 v1.0.7 h1:dNEU/rYbA49QHdz/mPWxbAMQt2mdc/o4d2eTYt3CYO8=
+gopkg.in/jwt.v1 v1.0.7/go.mod h1:7h2oQ6SDBu36Ri/wLpkQtZnCMEeQ+mqLkIutHq1wnik=
